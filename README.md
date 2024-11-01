@@ -1,7 +1,7 @@
 ## Introduction
 > 
 
-## Group Members
+## Members
 |Name|Dept|E-mail| 
 |:---:|:---:|:---:| 
 |Choi Jun Hyeong|Dept. Automotive Engineering|james200074@hanyang.ac.kr| 
