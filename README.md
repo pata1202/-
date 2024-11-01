@@ -1,7 +1,8 @@
 ## Group Members
 |Name|Dept|E-mail| 
 |:---:|:---:|:---:| 
-|Lee Suk Cheol|Dept. of Information systems|tjrcjf9@hanyang.ac.kr| 
-|Lee Ha Nuel|Dept. of Information systems|leehn0207@gmail.com|
-|Jeong Se Hee|Dept. of Information systems|sjsk04230000@naver.com|
-|Cho Jun Sang|Dept. of Information systems|cjsjustin99@naver.com|  
+|Choi Jun Hyeong|Dept. Automotive Engineering|james200074@ hanyang.ac.kr| 
+|Byun Jun Hyeong|Dept. Mechanical Engineering|jhjs1202@hanyang.ac.kr|
+|Lee Dong Ryul|Dept. Sport science|ga0212kimi@naver.com|
+|Kim Seo yeon|Dept. Tourism|2001seoyeon@gmail.com|  
+|Jun Chae yeon|Dept. Information systems|oandand8@naver.com| 
