@@ -5,6 +5,7 @@ In modern households, companion dogs have become precious. However, they are oft
 
 'DogAlone' is a system that analyzes a dog's crying to determine its emotional state and automatically executes smart home functions accordingly. AI analyzes the dog's emotional states such as "hungry," "boring," and "anxiety" after hearing the dog's crying. The results provide customized reactions such as an automatic water supply system, temperature control, and music playback. Through a smartphone application, it is possible to receive real-time notifications and remotely control smart home device. In particular, linking with LG AI speakers, an automatic water supply system, a home cam, and a snack robot enables more effective care for dogs. This improves companion dog's quality of life and reduces family worries.
 
+
 ## Members
 |Name|Dept|E-mail| 
 |:---:|:---:|:---:| 
